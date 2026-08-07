@@ -1,8 +1,15 @@
+<!-- ANCHOR: Top Typing SVG - Animation 1 -->
 <div align="center">
-  <h1>Hi there, I'm Athanti Jaswanth! 👋</h1>
-  <h3>CSE Graduate (2026) | Software Developer | AI/ML & Video Tech Enthusiast</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CA18&width=435&lines=Athanti+Jaswanth;CSE+Graduate+(2026);Software+Developer;AI%2FML+%26+Video+Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <h1>Hi there, I'm Jaswanth! 👋</h1>
   <p>Focused on software development, AI/ML, and technical problem-solving.</p>
   
+  <!-- VISUAL: Social Badges -->
   <a href="mailto:jaswanthathanti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://jaswanthathanti.github.io/Portfolio_Jaswanth_Athanti/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </div>
@@ -16,6 +23,45 @@
 * 💻 Passionate about **Full-Stack Development**, **Machine Learning**, and exploring cutting-edge **AI video creation** and animation technologies.
 * 🏆 Finalist in TCS Hack to Future 3.0 & 1st Prize Poster Presentation at BECTAGON.
 * 📫 Reach me at: **jaswanthathanti@gmail.com** or check out my [Personal Portfolio](https://jaswanthathanti.github.io/Portfolio_Jaswanth_Athanti/).
+
+---
+
+## 💻 Tech Stack & Visual Skills
+
+I build applications using a diverse range of languages, frameworks, and tools.
+
+<!-- VISUAL: Tech Badges Grid for Visualization -->
+<div align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br />
+  
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/ML-000000?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/LLMs-007A33?style=for-the-badge&logo=ai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <br />
+
+  <!-- Web & Tools -->
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</div>
 
 ---
 
@@ -52,26 +98,6 @@
     *   **Description:** A predictive model developed during the SkillDzire internship. Utilizes a supervised learning approach to identify COVID-19 affected individuals based on specific health data parameters.
     *   **Tech Stack:** Python, Scikit-learn, Supervised Learning
 
-*   📚 **React Bookstore App** `v1.5`
-    *   **Description:** Engineered a fully functional application featuring component architecture, hooks, and responsive UI patterns.
-    *   **Tech Stack:** React.js, JavaScript
-
----
-
-## 💻 Tech Stack
-
-**Programming Languages:**
-> Java, Python, JavaScript, TypeScript, C, HTML5, CSS3
-
-**AI/ML & Data:**
-> Machine Learning, LLMs, LangChain, RAG, Power BI, Pandas, FAISS
-
-**Web Technologies:**
-> React.js, Node.js, Express, REST APIs, FastAPI, Socket.io
-
-**Tools & Databases:**
-> MySQL, MongoDB, Firebase, Git, GitHub, VS Code, Jupyter Notebook
-
 ---
 
 ## 🏆 Certifications
@@ -79,13 +105,28 @@
 *   **Data Engineering Professional Certification** *(Altair RapidMiner Academy)*
 *   **Foundation of Cloud, IoT, Edge & ML** *(NPTEL: IIT Roorkee & IIT Guwahati)*
 *   **Growth & Operations Certificate** *(SPARKIIT)*
-*   **Brand Ambassador Program** *(COINCENT)*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **Improved GitHub Metrics & Animations**
+
+<!-- VISUAL: Snake Animation Placeholder - Step 2 required -->
+<!-- If the stats below show downtime, this section will still be dynamic -->
+<div align="center">
+  <p><strong>✨ Activity Contribution Snake (Requires Setup)</strong></p>
+  <img src="https://raw.githubusercontent.com/jaswanthathanti/jaswanthathanti/output/github-contribution-grid-snake.gif" alt="Contribution Snake GIF" />
+</div>
+<br />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaswanthathanti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthathanti&layout=compact&langs_count=7&theme=radical"/>
+  <!-- GitHub Readme Stats Card - Standard, dark theme for reliability -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaswanthathanti&show_icons=true&theme=dark" alt="GitHub Stats" />
+  
+  <!-- VISUAL: Added Streak Stats Card for extra dynamism -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthathanti&theme=dark" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <!-- Top Languages Card - Compact layout -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthathanti&layout=compact&theme=dark&langs_count=7" alt="Top Languages" />
 </div>
