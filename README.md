@@ -116,8 +116,8 @@ I build applications using a diverse range of languages, frameworks, and tools.
 </div>
 <br />
 
-<!-- VISUAL: GitHub Trophies (Dynamically loads based on your activity)
-<div align="center">
+<!-- VISUAL: GitHub Trophies (Dynamically loads based on your activity) -->
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jaswanthathanti&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=6" alt="jaswanthathanti Trophies" />
   </a>
@@ -133,5 +133,5 @@ I build applications using a diverse range of languages, frameworks, and tools.
   <!-- Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthathanti&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-</div>   -->
+  </a> -->
+</div>
