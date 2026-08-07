@@ -108,25 +108,30 @@ I build applications using a diverse range of languages, frameworks, and tools.
 
 ---
 
-## 📊 **Improved GitHub Metrics & Animations**
+## 📊 GitHub Metrics & Achievements
 
-<!-- VISUAL: Snake Animation Placeholder - Step 2 required -->
-<!-- If the stats below show downtime, this section will still be dynamic -->
+<!-- VISUAL: Profile Views Counter -->
 <div align="center">
-  <p><strong>✨ Activity Contribution Snake (Requires Setup)</strong></p>
-  <img src="https://raw.githubusercontent.com/jaswanthathanti/jaswanthathanti/output/github-contribution-grid-snake.gif" alt="Contribution Snake GIF" />
+  <img src="https://komarev.com/ghpvc/?username=jaswanthathanti&label=Profile%20Views&color=D14836&style=for-the-badge" alt="Profile Views" />
+</div>
+<br />
+
+<!-- VISUAL: GitHub Trophies (Dynamically loads based on your activity) -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jaswanthathanti&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=6" alt="jaswanthathanti Trophies" />
+  </a>
 </div>
 <br />
 
 <div align="center">
-  <!-- GitHub Readme Stats Card - Standard, dark theme for reliability -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaswanthathanti&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <!-- GitHub Readme Stats Card (Standardized for better uptime) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaswanthathanti&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
   
-  <!-- VISUAL: Added Streak Stats Card for extra dynamism -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthathanti&theme=dark" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <!-- Top Languages Card - Compact layout -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthathanti&layout=compact&theme=dark&langs_count=7" alt="Top Languages" />
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthathanti&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
 </div>
